@@ -1,0 +1,15 @@
+.About{
+
+margin: 50px;
+height: 400px;
+padding: 50px;
+}
+.download-resume{
+margin-top: 20px;
+padding: 10px 20px;
+background-color: #000;
+color:#fff;
+border:none;
+cursor: pointer;
+
+}

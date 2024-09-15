@@ -1,0 +1,49 @@
+
+.Head{
+display: flex;
+background-color: #000;
+/* background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20220129/pngtree-handsome-businessman-ponders-against-black-backdrop-success-handsome-suit-photo-image_35155762.jpg)  ; */
+background-repeat: no-repeat;
+width: 100%;
+height: 600px;
+
+}
+.Head .textArea{
+
+color: white;
+text-align: center;
+padding: 50px 0;
+justify-content: center;
+margin:20px 0 20px 50px
+
+}
+.photoArea img
+{
+
+    width: 1000px;
+    height: 600px;
+    margin-left: 50px;
+   
+}
+.textArea h1{
+
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.textArea h2{
+color: #9a9a9d;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.cta-button{
+
+    background-color: #000;
+    color: #fff;
+    border: none solid #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1rem;
+    border-color: #9a9a9d;
+    border-radius: 5px;
+
+}
